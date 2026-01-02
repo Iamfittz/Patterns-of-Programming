@@ -1,0 +1,15 @@
+# Build and release folders
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+*.suo
+
+# Others
+*.pdb
+*.cache
+*.log
+*.db
+*.vspscc
